@@ -22,4 +22,3 @@ export class AuthService {
       this.loggedIn = false;
     }
   }
-  
